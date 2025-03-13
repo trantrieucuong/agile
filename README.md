@@ -1,4 +1,4 @@
-Website cv-tempalte được xây dự để giúp người dụng kết nối với nhau, giữa các bạn đi xin viêc đến các anh chị hr
+  Website Blog tempalte được xây dự để giúp người dụng kết nối với nhau
 Công nghệ: java, mysql
 thư viện: spring
 Phiên bản:  jdk 17
@@ -11,8 +11,23 @@ có tích hợp chat bot AI giúp giải đáp mọi thắc mắc, cũng như h�
 
 ngoài ra Ứng dụng còn hoạt động như 1 trang mạng xã hội, mn có thể viết blog,  đánh giá, cmt, trao đổi thông tin với nhau, có thể theo dõi và nhắn tin realtime
 
-là ứng dụng thứ 2 tay, tổ chức mã nguồn, hay logic có thể chưa tốt, kính mong anh chị góp í
+Mô tả:
+role: user and admin
+admin: đăng nhập được vào trang quản lý admin. Admin có thể tạo bào viết, và tạo role bài viết, kiểm soát cmt
+User: có thể tạo tài khoản, đọc bài viết, bày tỏ đánh giá bài viết.
 
-em xin chân thành cảm ơn
+Tạo tài khoản phải dùng mail thật, phải xác thực otp mới kích hoạt để đăng nhập được.
+
+yêu cầu về mật khẩu: phải mã hoá mk khi lưu vào csdl + tăng bảo mật
+
+Đối tượng cần quản lý: user và bài viết, role bài viết. 
+
+Lọc bài viết theo role
+
+Yêu cầu về giao diện  nữa
+
+Tích hợp AI
+
+
 
 Cường dev java 
